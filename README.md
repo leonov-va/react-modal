@@ -1,5 +1,2 @@
 # react-modal-example
-
-# npm install && npm run start
-
-# npm run deploy
+https://leonov-va.github.io/react-modal-example/
